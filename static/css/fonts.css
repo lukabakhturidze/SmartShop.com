@@ -1,0 +1,20 @@
+@font-face{
+    font-family:"oswald-500", sans-serif;
+    src:url("../fonts/Oswald-Medium.ttf");
+}
+@font-face{
+    font-family:"poppins-400", sans-serif;
+    src:url("../fonts/Poppins-Regular.ttf");
+}
+@font-face{
+    font-family:"poppins-500", sans-serif;
+    src:url("../fonts/Poppins-Medium.ttf");
+}
+@font-face{
+    font-family:"poppins-600", sans-serif;
+    src:url("../fonts/Poppins-Regular.ttf");
+}
+@font-face{
+    font-family:"poppins-700", sans-serif;
+    src:url("../fonts/Poppins-Bold.ttf");
+}
